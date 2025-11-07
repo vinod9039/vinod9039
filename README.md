@@ -6,7 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinod9039&label=Profile%20views&color=0e75b6&style=flat" alt="vinod9039" /> </p>
 
-- 🌱 I’m currently learning **C, java, Data bas, Spring Boot**
+## 👨‍💻 About Me
+
+Hi, I’m **Vinod Athya**, a passionate **Software Engineer from India**.
+
+- 🌱 I’m currently learning **C, Java, Oracle Database, and Spring Boot**
+- 💻 I enjoy backend development & database technologies
+- 🎯 Focused on improving problem-solving skills
+- 🤝 Open to collaborating on interesting projects
+- 📫 How to reach me:  vinodathya001@gmail.com 
+ 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
